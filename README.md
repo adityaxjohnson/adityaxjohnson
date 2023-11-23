@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityaxjohnson
-- 👀 I’m interested in Computer Networks And cisco tecnologies
-- 🌱 I’m currently learning CCNA
-- 💞️ I’m looking to collaborate on CCNA based projects
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Machine Learning based projects
 - 📫 How to reach me You can reach me via mail adityajohnson1706@gmail.com
 
 <!---
